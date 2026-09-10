@@ -1,0 +1,35 @@
+# Third-party notices
+
+## SRW author-policy text
+
+The six policy sections in `author-guidelines.html` are reused from
+[NAACL 2025 SRW author.md](https://github.com/naacl2025-srw/naacl2025-srw.github.io/blob/main/author.md),
+whose repository distributes the material under the following
+[MIT license](https://github.com/naacl2025-srw/naacl2025-srw.github.io/blob/main/LICENSE).
+The workshop name/year and link presentation have been updated; the historical
+abstract-deadline authorship restriction has been omitted. The policy text is
+otherwise retained, apart from heading capitalization and final punctuation.
+
+```text
+MIT License
+
+Copyright (c) 2021 naacl2022-srw
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
