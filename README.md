@@ -5,12 +5,25 @@ Static website. Edit `index.html`, `author-guidelines.html`, and `assets/css/sty
 
 ## Content references
 
-Updated September 10, 2026 using the organizers' supplied CFP and timeline.
-The public schedule includes mentorship, submission, acceptance, camera-ready,
-and conference dates. Grant notification is labeled tentative; the grant
-application deadline and exact workshop date remain TBD. Internal reviewing,
-CFP reminder, contingency, and proceedings-production dates are not published.
-The workshop-specific OpenReview URL still needs to be supplied.
+Updated September 11, 2026 using the organizers' latest CFP and timeline decisions.
+The public schedule includes mentorship requests (November 16, 2026), matching
+(November 23, 2026), paper submission (January 11, 2027), acceptance notification
+(March 8, 2027), and the conference (June 1–5, 2027).
+
+Proof of the first author's student status is required during paper submission
+by January 11, 2027, for both categories and publication tracks. It is submitted
+separately from the anonymized manuscript, following submission-site instructions.
+
+Camera-ready papers are due March 15, 2027 (Monday), at 11:59 PM AoE (UTC-12).
+SRW grant applications are merged into the student volunteer
+program, whose application link, deadline, eligibility, duties, and benefits
+remain to be announced. March 26, 2027 is retained as a tentative student support
+notification target, subject to confirmation with that program. The former
+separate SRW grant priorities and application checklist have been removed.
+
+Internal reviewing, CFP reminders, contingency planning, and proceedings-production
+dates are not published. The workshop-specific OpenReview URL and exact workshop
+date still need to be supplied.
 
 - `author-guidelines.html` hosts the six detailed author-policy sections locally.
   The index links open the relevant sections in new tabs. Text is reused from
